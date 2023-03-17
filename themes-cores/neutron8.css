@@ -90,11 +90,6 @@ body {
     background-color: var(--themeColor1) !important;
 }
 
-.tutorialContainer-1pL9QS .childWrapper-1j_1ub > svg,
-.tutorialContainer-1pL9QS .childWrapper-1j_1ub .homeIcon-tEMBK1 {
-    display: none
-}
-
 ::-webkit-scrollbar {
     border: none !important;
     width: 7px !important
