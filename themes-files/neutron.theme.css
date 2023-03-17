@@ -31,8 +31,8 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
   --themeColor2: #2b38c2; /* Theme's color 2 */
 
    --customFont: 'Whitney', 'gg-sans';
-  /* HOME BUTTON */
-  --homeImageSize: cover;/* To cover the button, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
+ 
+ 
 
   /* BACKGROUND */
   --backgroundColor: #0d0d0d; /* Background color */
