@@ -6,9 +6,7 @@
 :root {
     --themeColor1: #36D1DC;
     --themeColor2: #5B86E5;
-    --font-display: var(--customFont);
-    --homeImage: url('https://imgur.com/eItxuAq.png');
-    --homeImageSize: cover;
+    --font-display: var(--customFont); 
     --backgroundColor: #0d0d0d;
     --backgroundImage: url('https://imgur.com/qhBghXt.png');
     --backgroundPosition: center;
