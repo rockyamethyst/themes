@@ -36,7 +36,7 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
 
   /* BACKGROUND */
   --backgroundColor: #0d0d0d; /* Background color */
-  --backgroundImage: url('https://cdn.discordapp.com/attachments/689176032481378402/1086110019310846002/cosmicdarker.png'); /* Backround image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
+  --backgroundImage: url('https://cdn.discordapp.com/attachments/689176032481378402/1086111539301449779/cosmicevendarker.png'); /* Backround image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
   --backgroundPosition: center; /* Image position | center, left, right, bottom, top */
   --backgroundSize: cover; /* To cover the entire app, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
   --backgroundRepeat: no-repeat; /* if you want the image to repeat | Google "css background repeat" */
