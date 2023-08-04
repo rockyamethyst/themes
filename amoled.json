@@ -1,6 +1,6 @@
 {
-    "name": "Old-AMOLED",
-    "description": "for rory :3",
+    "name": "Old Discord AMOLED",
+    "description": "For my dear Aurora :3",
     "authors": [
         {
             "name": "rockyamethyst",
@@ -19,7 +19,7 @@
         ],
         "BACKGROUND_TERTIARY": [
             "#000000"
-        ],
+        ],  
         "BACKGROUND_FLOATING": [
             "#000000"
         ],
@@ -41,6 +41,9 @@
         "BACKGROUND_MODIFIER_ACCENT": [
             "#000000"
         ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#000000"
+        ],
         "CHAT_BACKGROUND": [
             "#000000"
         ],
@@ -48,6 +51,12 @@
             "#000000"
         ]
     },
+    "rawColors": {
+        "PRIMARY_600": "#000000",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_660": "#000000",
+        "PRIMARY_700": "#000000",
+        "PRIMARY_800": "#000000"
+    },
     "spec": 2
-
 }
